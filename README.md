@@ -75,6 +75,7 @@ Pushing to `main` triggers [`.github/workflows/deploy.yml`](.github/workflows/de
 | `AWS_ACCESS_KEY_ID`     | IAM user with ECR push + ECS deploy permissions |
 | `AWS_SECRET_ACCESS_KEY` | Secret for the above IAM user                   |
 
+<img width="1327" height="697" alt="image" src="https://github.com/user-attachments/assets/aaff8a07-5cbe-411c-ac44-6262ed1d2e2c" />
 
 <img width="1016" height="422" alt="image" src="https://github.com/user-attachments/assets/d683c8f9-2ebd-4bd3-af65-fcec9d3ed75f" />
 
